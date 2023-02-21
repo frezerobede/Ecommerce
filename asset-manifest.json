@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/Ecommerce/static/js/main.fc01d6a6.js",
+    "static/media/image2.png": "/Ecommerce/static/media/image2.fa93f5d119b7555d18ab.png",
+    "static/media/afr7.png": "/Ecommerce/static/media/afr7.34333c337caa648e73e4.png",
+    "static/media/afre6.png": "/Ecommerce/static/media/afre6.e8a9610126edb4d61dd4.png",
+    "static/media/afr3.png": "/Ecommerce/static/media/afr3.fdad44777169161ef883.png",
+    "static/media/afr4.png": "/Ecommerce/static/media/afr4.5451c2a9a3a7f7bd9327.png",
+    "static/media/single.jpg": "/Ecommerce/static/media/single.c57f4b19a913a8091073.jpg",
+    "static/media/afr5.png": "/Ecommerce/static/media/afr5.6e770fd039cab2fbcc1c.png",
+    "static/media/afr8.png": "/Ecommerce/static/media/afr8.b7aac7b2542e9b1be8bc.png",
+    "static/media/image3.png": "/Ecommerce/static/media/image3.081c09d85eaf44b9a1c2.png",
+    "static/media/afr2.png": "/Ecommerce/static/media/afr2.44dea5dcbfd84f3aaac5.png",
+    "static/media/image1.png": "/Ecommerce/static/media/image1.5d5c4b4557d1e1ebdd3d.png",
+    "static/media/afr1.png": "/Ecommerce/static/media/afr1.bd670ccb700cc4ed71da.png",
+    "static/media/sty2.jpg": "/Ecommerce/static/media/sty2.2498d06757e62246d7d0.jpg",
+    "static/media/sty3.jpg": "/Ecommerce/static/media/sty3.b7373e74f6dceccbd348.jpg",
+    "static/media/payment-method2.png": "/Ecommerce/static/media/payment-method2.27f7d93aae2c9e4c6a54.png",
+    "static/media/sty1.jpg": "/Ecommerce/static/media/sty1.d6ccf2f2dcd5af0bd7b6.jpg",
+    "index.html": "/Ecommerce/index.html",
+    "main.fc01d6a6.js.map": "/Ecommerce/static/js/main.fc01d6a6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fc01d6a6.js"
+  ]
+}
